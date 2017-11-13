@@ -8,7 +8,6 @@ package com.zhangxu;
 public class MyTest {
     public static void main(String ars[]){
         String str="hello github!!";
-
         System.out.println("hello maven!!");
         System.out.println(str);
 
