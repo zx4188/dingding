@@ -11,5 +11,6 @@ public class MyTest {
         System.out.println("hello maven!!");
         System.out.println(str);
 
+        //merge branch
     }
 }
